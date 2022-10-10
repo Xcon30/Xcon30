@@ -53,7 +53,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoeskieeMedia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoeskieeMedia&show_icons=true&count_private=true&hide_border=false&theme=onedark" align="center" /></div>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=JoeskieeMedia&&style=flat-square)  
   
