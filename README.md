@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning Electron  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 <br/>  
 
 
@@ -52,16 +49,7 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/JoeskieeMedia" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+ 
 
 
 ## Github Stats  
@@ -70,13 +58,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=JoeskieeMedia&&style=flat-square)  
   
 
-<br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
