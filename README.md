@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [AIO](https://github.com/JoeskieeMedia/AIOBot)  
   
 
-- 🌱 I’m currently learning Electron  
+- 🌱 I’m currently learning Rust 
   
 
 <br/>  
