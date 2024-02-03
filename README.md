@@ -1,13 +1,4 @@
-<div align="center">
-<img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center"></div>  
-  
-
-- 🔭 I’m currently working on [AIO](https://github.com/JoeskieeMedia/AIOBot)  
-  
+- 🔭 I’m currently working on [AIO](https://github.com/buildwithjoe/Horadrim)  
 
 - 🌱 I’m currently learning Rust 
   
@@ -19,7 +10,6 @@
 
 
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
