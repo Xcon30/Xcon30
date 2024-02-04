@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [AIO](https://github.com/buildwithjoe/Horadrim)  
+- 🔭 I’m currently working on [Horadrim](https://github.com/buildwithjoe/Horadrim)  
 
 - 🌱 I’m currently learning Rust 
   
